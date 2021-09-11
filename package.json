@@ -1,0 +1,16 @@
+{
+  "name": "proyectoclima",
+  "version": "1.0.0",
+  "description": "Proyecto para Gradiweb, APP para ver el clima",
+  "main": "/assets/js/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Clima",
+    "Gradiweb",
+    "APP"
+  ],
+  "author": "Cristian <ccamiloblanco@gmail.com>",
+  "license": "MIT"
+}
