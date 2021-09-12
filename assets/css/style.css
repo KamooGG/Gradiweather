@@ -6,7 +6,7 @@
 }
 body{
     margin: 0 auto;
-    background-image: url(/assets/img/3.jpg);
+    background-image: url('../img/3.jpg');
     background-position: top;
 /*     background: rgb(2,0,36);
     background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(9,9,121,1) 51%, rgba(2,0,36,1) 100%);    font-family: 'Urbanist', sans-serif;
